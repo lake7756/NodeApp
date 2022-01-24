@@ -8,7 +8,7 @@
     "start": "node dist/app.js",
     "build": "npx tsc",
     "executable": "npx pkg dist/app.js --target node16-macos-x64",
-    "xml":"npm install mocha-junit-reporter --save-dev"
+    "xml":"npx mocha dist/tests/app.utc.test.js --reporter mocha-junit-reporter"
   },
   "keywords": [],
   "author": "",
