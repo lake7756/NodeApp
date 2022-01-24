@@ -7,8 +7,7 @@
     "test": "mocha ./dist/tests/**/*.utc.test.js",
     "start": "node dist/app.js",
     "build": "npx tsc",
-    "executable":"npx pkg dist/app.js --target node16-macos-x64",
-    "package": "npm run build && npm run test && npm run executable"
+    "executable":"npx pkg dist/app.js --target node16-macos-x64"
   },
   "keywords": [],
   "author": "",
