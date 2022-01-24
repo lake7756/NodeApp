@@ -1,2 +1,2 @@
 # NodeApp
-A node application with typescript.
+A simple node application with typescript.
