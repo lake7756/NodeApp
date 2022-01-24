@@ -6,7 +6,7 @@ describe("Testing app.js",()=>{
     const output = ".etsamaN !sogima aloH";
 
     it("Testing 2+2 = 4", ()=>{
-        chai.assert.equal(2+2,5);
+        chai.assert.equal(2+2,4);
     })
 
     it("Testing reverse method",()=>{
