@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0010" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-26T15:09:20" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Testing app.js" timestamp="2022-01-26T15:09:20" tests="2" file="/Users/suruchi./Desktop/nodeApp/dist/tests/app.utc.test.js" time="0.0010" failures="0">
+    <testcase name="Testing app.js Testing 2+2 = 4" time="0.0000" classname="Testing 2+2 = 4">
+    </testcase>
+    <testcase name="Testing app.js Testing reverse method" time="0.0000" classname="Testing reverse method">
+    </testcase>
+  </testsuite>
+</testsuites>
